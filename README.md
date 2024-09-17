@@ -29,7 +29,7 @@ Crystal Pausemenu supports the following frameworks:
 
 Interested in improving your server’s in-game menu? Click below to purchase Crystal Pausemenu!
 
-<a href="https://your-purchase-link.com" target="_blank">
+<a href="https://crystal-store.xyz/packages/6462029" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Now-19.98%20%24-blue?style=for-the-badge" alt="Buy Now">
 </a>
 
