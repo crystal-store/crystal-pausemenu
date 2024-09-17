@@ -4,17 +4,17 @@
 
 The Crystal Pause Menu is a versatile and modern interface for FiveM servers, featuring automatic framework detection, customizable UI colors, and extensive options for player interaction and roleplay enhancement. Easily adaptable and user-friendly, it provides a seamless and engaging experience for server owners and players alike.
 
-## Price
-
-💰 **Price**: $19.98  
-🔒 **Encrypted**: Yes
-
 ## Compatibility
 
 Crystal Pausemenu supports the following frameworks:
 - ESX
 - QB
 - Custom (custom integrations possible)
+
+## Price
+
+💰 **Price**: $19.98  
+🔒 **Encrypted**: Yes
 
 ## Purchase
 
